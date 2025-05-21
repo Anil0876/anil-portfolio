@@ -24,7 +24,7 @@ This project showcases my background, skills, certifications, and projects in th
 ## Author
 
 **Anil Kumar**  
-B.TECH Graduate | Cybersecurity & IT Support Enthusiast  
+BCA Graduate | Cybersecurity & IT Support Enthusiast  
 Email: [anil467877@gmail.com](mailto:anil467877@gmail.com)  
 Location: Farrukhnagar, Gurgaon
 
